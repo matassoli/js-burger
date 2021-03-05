@@ -1,0 +1,49 @@
+* {
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: #FFF5E2;
+}
+
+.main__container {
+  background-color: #FFF;
+  max-width: 50%;
+}
+
+h1 {
+  background-color: orange;
+  padding: 60px 0 30px 40px;
+}
+
+.input__name {
+  font-size: 30px;
+}
+
+main {
+  padding: 40px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.input__discount {
+  background-color: #FFF5E2;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px 60px 40px;
+}
