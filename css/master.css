@@ -7,13 +7,14 @@
 body {
   background-color: #FFF5E2;
   font-weight: bold;
+  font-family: 'Roboto', sans-serif;
 }
 
 .logo {
   position: absolute;
   z-index: 2;
   right: -50px;
-  height: 200px;
+  max-height: 20%;
   width: auto;
   top: -20px;
 }
